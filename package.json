@@ -1,0 +1,14 @@
+{
+  "name": "@eszmateusz/node-unique-id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eszmateusz/node-unique-id-generator.git",
+  "author": "eszmateusz <71881067+eszmateusz@users.noreply.github.com>",
+  "license": "MIT",
+  "keywords": [
+    "id",
+    "generator",
+    "idGenerator",
+    "generatorId"
+  ]
+}
