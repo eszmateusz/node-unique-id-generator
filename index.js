@@ -1,5 +1,6 @@
 const randomID = (idLength) => {
   let id = '';
+
   const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   const charsAmount = characters.length;
 
